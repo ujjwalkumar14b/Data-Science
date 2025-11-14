@@ -25,6 +25,7 @@
 ### MSZONING BEFORE AND AFTER
 ![](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/EDA_img/MSZoningBefore%26After.png)
 
+<br><br><br><br><br><br>
 
 ## EXPLORATORY DATA ANALYSIS (EDA)
 ### HEATMAP OF NULL VALUES IN DATA
