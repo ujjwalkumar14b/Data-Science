@@ -33,6 +33,7 @@
 ### HEATMAP OF NON NULL VALUES IN DATA
 ![](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/EDA_img/heatmap_DF_of_non-null_values.png)
 
+<br><br>
 ## DATA VISUALIZATION
 ### TRAINED HOUSE PRICE DATA
 ![Train Data Dashboard](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/TRAIN_HOUSE_PRICE_DATA.png)
