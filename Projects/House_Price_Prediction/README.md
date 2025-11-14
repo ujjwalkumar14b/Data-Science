@@ -13,6 +13,9 @@
 ### BASEMENT FINISHED AREA
 ![](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/EDA_img/BsmtFinType1Before%26After.png)
 
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+
 ### BASEMENT FINISHED AREA
 ![](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/EDA_img/BsmtFinType2Before%26After.png)
 
