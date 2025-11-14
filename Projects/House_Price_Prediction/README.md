@@ -23,6 +23,10 @@
 ### BASEMENT QUALITY BEFORE AND AFTER
 ![](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/EDA_img/BsmtQualBefore%26After.png)
 
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+
 ### LOT FRONTAGE BEFORE AND AFTER
 ![](https://github.com/Ujjwal2023kumar/Data-Science/blob/main/Projects/House_Price_Prediction/EDA_img/LotFrontageBefore%26After.png)
 
